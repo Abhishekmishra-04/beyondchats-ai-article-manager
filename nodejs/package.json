@@ -1,0 +1,30 @@
+{
+  "name": "beyondchats-ai-rewriter",
+  "version": "1.0.0",
+  "description": "AI Article Enhancement Script for BeyondChats Assignment - Phase 2",
+  "main": "ai-rewriter.js",
+  "scripts": {
+    "start": "node ai-rewriter.js",
+    "dev": "node --watch ai-rewriter.js",
+    "process-all": "while node ai-rewriter.js; do sleep 2; done"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "article-enhancement",
+    "beyondchats",
+    "web-scraping",
+    "cheerio"
+  ],
+  "author": "BeyondChats Assignment",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.3.1",
+    "openai": "^4.24.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
