@@ -1,8 +1,8 @@
 # BeyondChats Full-Stack Assignment
 
 > **Role:** Full Stack Engineer / Technical Product Manager (Fresher)  
-> **Candidate:** [Your Name]  
-> **Date:** January 2024
+> **Candidate:** Abhishek Kumar Mishra  
+> **Date: 25 Dec 2025
 
 ---
 
@@ -431,9 +431,9 @@ This implementation meets all assignment requirements:
 
 ## 📞 Contact
 
-**Candidate:** [Your Name]  
-**Email:** [your.email@example.com]  
-**GitHub:** [github.com/yourusername]
+**Candidate:** Abhishek Kumar Mishra
+**Email:** abhishekkumarmishra82077@gmail.com 
+**GitHub:** https://github.com/Abhishekmishra-04
 
 ---
 
